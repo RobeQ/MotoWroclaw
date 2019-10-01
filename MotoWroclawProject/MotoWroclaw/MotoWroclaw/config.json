@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MotoWroclawConnectionString": "server=(localdb)\\ProjectsV13;Database=MotoWroclawDB;Integrated Security=true;MultipleActiveResultSets=true;"
+  }
+}
